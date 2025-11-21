@@ -1,0 +1,2 @@
+I was inspired by the black hole illusion. Inicially, I wanted to make the blackhole follow and warp around the mouse possition, however, I was not able to acchieve that yet. So, I figured that I should add something that intensifies the illusion of a 3D space. I created this circle that gets smaller as it is closer to the center, creating an illusion that it is going further in the tunnel.
+
